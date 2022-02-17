@@ -1,0 +1,5 @@
+.DS_store
+cypress.env.json
+cypress/videos/
+node_modules/
+temp/
